@@ -1,6 +1,6 @@
 
 /**
-* main page object containing all methods, selectors and functionality
+* main page object containing all methods, selectors and functionality of the page
 * that is shared across all page objects
 */
 class Googlehomepage {
